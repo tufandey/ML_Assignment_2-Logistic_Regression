@@ -1,1 +1,1 @@
-# ML_Assignment_2-Logistic_Regression
+# Logistic_Regression_from_scratch
